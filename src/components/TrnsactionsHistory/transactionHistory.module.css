@@ -1,0 +1,31 @@
+.transactionHistory {
+    border: 1px solid rgb(212, 190, 190);
+    width: 600px;
+    text-align: center;
+    margin: 20px auto;
+}
+
+.transactionHistory thead {
+    background-color: rgba(170, 133, 133, 0.557);
+    color: white;
+    font-size: 18px;
+}
+
+.head th{
+    padding: 10px;
+    border: 1px solid rgb(212, 190, 190);
+}
+
+.body td{
+    padding: 7px;
+    border: 1px solid rgb(212, 190, 190);
+    color: rgb(81, 78, 76);
+}
+
+table {
+    background-color: rgba(241, 241, 241, 0.125);
+}
+
+tr:nth-child(2n) {
+    background-color: rgba(212, 190, 190, 0.169);
+};

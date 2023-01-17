@@ -1,0 +1,22 @@
+.statistics {
+    margin: 20px auto;
+    border: 1px solid rgb(212, 190, 190);
+    text-align: center;
+    width: 500px; 
+    height: auto;
+}
+.statList {
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+}
+.title {
+    color: rgb(94, 108, 103);
+    padding: 40px;
+    margin: 0;
+    font-size: 30px;
+    text-transform: uppercase;
+}
