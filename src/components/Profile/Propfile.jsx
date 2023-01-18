@@ -35,6 +35,7 @@ const Profile = ({ user }) => {
     )
 }
 
+
 export default Profile;
 
 Profile.propTypes = {
