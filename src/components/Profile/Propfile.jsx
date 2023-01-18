@@ -4,6 +4,7 @@ import PropTypes from 'prop-types';
 const Profile = ({ user }) => {
     const { username, tag, location, avatar, stats } = user;
 
+    
     return (
         <div className={s.profile}>
             <div className={s.description}>
