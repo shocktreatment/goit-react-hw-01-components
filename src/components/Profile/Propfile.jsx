@@ -37,7 +37,6 @@ const Profile = ({ user }) => {
 
 export default Profile;
 
-
 Profile.propTypes = {
     username: PropTypes.string,
     tag: PropTypes.string,
